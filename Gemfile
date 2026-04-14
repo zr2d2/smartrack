@@ -1,4 +1,4 @@
 source 'https://rubygems.org'
 gem 'pdf-reader', '~> 1.4'
 gem 'mechanize'
-gem 'nokogiri', "~> 1.16.5"
+gem 'nokogiri', "~> 1.19.1"
