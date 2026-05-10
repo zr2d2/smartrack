@@ -29,7 +29,7 @@ GEM
     net-http-digest_auth (1.4.1)
     net-http-persistent (4.0.2)
       connection_pool (~> 2.2)
-    nokogiri (1.19.1)
+    nokogiri (1.19.3)
       mini_portile2 (~> 2.8.2)
       racc (~> 1.4)
     pdf-reader (1.4.0)
@@ -54,7 +54,7 @@ PLATFORMS
 
 DEPENDENCIES
   mechanize
-  nokogiri (~> 1.19.1)
+  nokogiri (~> 1.19.3)
   pdf-reader (~> 1.4)
 
 BUNDLED WITH
